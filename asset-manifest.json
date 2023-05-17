@@ -1,16 +1,26 @@
 {
   "files": {
     "main.css": "/BlckMrln.github.io/static/css/main.084fb190.css",
-    "main.js": "/BlckMrln.github.io/static/js/main.98cfac2d.js",
+    "main.js": "/BlckMrln.github.io/static/js/main.6b081241.js",
+    "static/media/heropagevideomain.mp4": "/BlckMrln.github.io/static/media/heropagevideomain.c22529590607152ce41a.mp4",
     "static/media/aboutimg1.jpeg": "/BlckMrln.github.io/static/media/aboutimg1.6f96a59f6889715b0f4e.jpeg",
     "static/media/header2.jpg": "/BlckMrln.github.io/static/media/header2.e87d6930f190496a6ea9.jpg",
+    "static/media/breastStroke.jpg": "/BlckMrln.github.io/static/media/breastStroke.afef19059993d1d279ba.jpg",
+    "static/media/BackStroke.jpg": "/BlckMrln.github.io/static/media/BackStroke.5f480a5b64e1376729fd.jpg",
+    "static/media/butterfly.jpg": "/BlckMrln.github.io/static/media/butterfly.5468c793439b7f1eacd7.jpg",
+    "static/media/FreeStyle.jpg": "/BlckMrln.github.io/static/media/FreeStyle.bd714de94611f69dc4e5.jpg",
     "static/media/fa-solid-900.ttf": "/BlckMrln.github.io/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/BlckMrln.github.io/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/contactimg.webp": "/BlckMrln.github.io/static/media/contactimg.1a0b922d9f9ce676bdbc.webp",
     "static/media/wired-flat-981-consultation.gif": "/BlckMrln.github.io/static/media/wired-flat-981-consultation.1e84546379af72011c6d.gif",
     "static/media/fa-solid-900.woff2": "/BlckMrln.github.io/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/team.jpg": "/BlckMrln.github.io/static/media/team.38b5e645fbe7412fbca8.jpg",
+    "static/media/adult.jpg": "/BlckMrln.github.io/static/media/adult.5537904843877cdb72cc.jpg",
+    "static/media/private.jpg": "/BlckMrln.github.io/static/media/private.d0355b79d5f92074bd74.jpg",
+    "static/media/kids.jpg": "/BlckMrln.github.io/static/media/kids.64eab570c417bfe2cbab.jpg",
     "static/media/wired-flat-18-location-pin.gif": "/BlckMrln.github.io/static/media/wired-flat-18-location-pin.62a3ee5707ea513e7ab2.gif",
     "static/media/wired-flat-177-envelope-mail-send.gif": "/BlckMrln.github.io/static/media/wired-flat-177-envelope-mail-send.de862d18a752807bf20d.gif",
+    "static/media/toddler.jpg": "/BlckMrln.github.io/static/media/toddler.e6d506ccf0559f8438d3.jpg",
     "static/media/fa-brands-400.woff2": "/BlckMrln.github.io/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/fa-regular-400.ttf": "/BlckMrln.github.io/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/founderimg1.png": "/BlckMrln.github.io/static/media/founderimg1.c0fe77b39d26ac16a043.png",
@@ -23,10 +33,10 @@
     "static/media/slick.ttf": "/BlckMrln.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/BlckMrln.github.io/static/media/slick.295183786cd8a1389865.woff",
     "main.084fb190.css.map": "/BlckMrln.github.io/static/css/main.084fb190.css.map",
-    "main.98cfac2d.js.map": "/BlckMrln.github.io/static/js/main.98cfac2d.js.map"
+    "main.6b081241.js.map": "/BlckMrln.github.io/static/js/main.6b081241.js.map"
   },
   "entrypoints": [
     "static/css/main.084fb190.css",
-    "static/js/main.98cfac2d.js"
+    "static/js/main.6b081241.js"
   ]
 }
