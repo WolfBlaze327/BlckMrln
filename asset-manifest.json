@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BlckMrln.github.io/static/css/main.084fb190.css",
-    "main.js": "/BlckMrln.github.io/static/js/main.717d8c34.js",
+    "main.css": "/BlckMrln.github.io/static/css/main.b771fe09.css",
+    "main.js": "/BlckMrln.github.io/static/js/main.25f30b29.js",
     "static/media/heropagevideomain.mp4": "/BlckMrln.github.io/static/media/heropagevideomain.c22529590607152ce41a.mp4",
     "static/media/aboutimg1.jpeg": "/BlckMrln.github.io/static/media/aboutimg1.6f96a59f6889715b0f4e.jpeg",
     "static/media/header2.jpg": "/BlckMrln.github.io/static/media/header2.e87d6930f190496a6ea9.jpg",
@@ -49,11 +49,11 @@
     "static/media/slick.eot": "/BlckMrln.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/BlckMrln.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/BlckMrln.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "main.084fb190.css.map": "/BlckMrln.github.io/static/css/main.084fb190.css.map",
-    "main.717d8c34.js.map": "/BlckMrln.github.io/static/js/main.717d8c34.js.map"
+    "main.b771fe09.css.map": "/BlckMrln.github.io/static/css/main.b771fe09.css.map",
+    "main.25f30b29.js.map": "/BlckMrln.github.io/static/js/main.25f30b29.js.map"
   },
   "entrypoints": [
-    "static/css/main.084fb190.css",
-    "static/js/main.717d8c34.js"
+    "static/css/main.b771fe09.css",
+    "static/js/main.25f30b29.js"
   ]
 }
