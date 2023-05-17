@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css?family=Montserrat:wght@300,400,700&display=swap');
+
+
+
+main {
+  width: 100vw;   
+  overflow: hidden; 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.gallery-container {
+  position: relative;
+  width: 100%;
+  min-height: 25vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.gallery-container .gallery-content {
+  z-index: 888;
+  color: #fff;
+  margin-top: 50px;
+}
+
+.gallery-container img {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gallery-container .gallery-content h1 {
+  font-size: 4em;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-shadow: 0 0.3rem 0.5rem #000;
+  text-align: start;
+}
+
+/* gallery */
+.background {
+  background: #000;
+}
+.container7{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 40px 20px 0 20px;
+}
+
+.container7 .heading{
+  width: 50%;
+  padding-bottom: 50px;
+}
+.container7 .heading h3{
+  font-size: 3em;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #000;
+}
+
+.container7 .heading h3 span{
+  font-weight: 100;
+}
+.container7 .box{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+
+.container7 .box .dream{
+  display: flex;
+  flex-direction: column;
+  width: 32.5%;
+}
+
+.container7 .box .dream img{
+  width: 100%;
+  padding-bottom: 15px;
+    transition: transform .2s;
+  border-top: 5px solid #18a0fb;
+}
+.container7 .box .dream img:hover{
+   -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+.container7 .btn{
+  margin: 40px 0 70px 0;
+  background: #222;
+  padding: 15px 40px ;
+}
+
+.container7 .btn a{
+ color: #fff;
+ font-size: 1.2em;
+ text-decoration: none;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+
+@media only screen and (max-width: 769px){
+    .container7 .box{
+   flex-direction: column;
+  }
+
+.container7 .box .dream{
+  width: 100%;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 643px){
+.container7 .heading{
+  width: 100%;
+}
+.container7 .heading h3{
+  font-size: 1em;
+
+}
+}
