@@ -47,7 +47,7 @@ function NavBar() {
       <div className={`menu-btn ${isMenuOpen ? "active" : ""}`} ref={menuBtnRef} onClick={handleMenuClick}></div>
       <div className={`navigation1 ${isMenuOpen ? "active" : ""}`} ref={navigationRef}>
         <div className="navigation1-items1">
-          <NavLink to="/" exact className="a">HOME</NavLink>
+          <NavLink to="/Home" exact className="a">HOME</NavLink>
           <NavLink to="/Programs" className="a">PROGRAMS</NavLink>
           <NavLink to="/Gallery" className="a">GALLERY</NavLink>
           <NavLink to="/AboutUs" className="a">ABOUT US</NavLink>
