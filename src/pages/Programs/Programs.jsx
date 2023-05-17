@@ -103,7 +103,7 @@ const Programs = () => {
                                         <div className="wgh-slider__container">
                                             <div className="wgh-slider-item">
                                                 <div className="wgh-slider-item__inner">
-                                                    <figure className="wgh-slider-item-figure"><img className="wgh-slider-item-figure__image" src="img/toddler.jpg" alt="Toddler"/>
+                                                    <figure className="wgh-slider-item-figure"><img className="wgh-slider-item-figure__image" src="./img/toddler.jpg" alt="Toddler"/>
                                                         <figcaption className="wgh-slider-item-figure__caption">TODDLERS<span>Survival</span></figcaption>
                                                     </figure>
                                                     <label className="wgh-slider-item__trigger" for="slide-1" title="Show product 1"></label>
