@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BlckMrln.github.io/static/css/main.084fb190.css",
-    "main.js": "/BlckMrln.github.io/static/js/main.b3e74686.js",
+    "main.js": "/BlckMrln.github.io/static/js/main.717d8c34.js",
     "static/media/heropagevideomain.mp4": "/BlckMrln.github.io/static/media/heropagevideomain.c22529590607152ce41a.mp4",
     "static/media/aboutimg1.jpeg": "/BlckMrln.github.io/static/media/aboutimg1.6f96a59f6889715b0f4e.jpeg",
     "static/media/header2.jpg": "/BlckMrln.github.io/static/media/header2.e87d6930f190496a6ea9.jpg",
@@ -14,6 +14,7 @@
     "static/media/fa-solid-900.ttf": "/BlckMrln.github.io/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/pic4.jpg": "/BlckMrln.github.io/static/media/pic4.8812549db54d6acf7f7a.jpg",
     "static/media/pic8.jpg": "/BlckMrln.github.io/static/media/pic8.0e6aea2a84db28cd07c7.jpg",
+    "static/media/BMAC_Logo.png": "/BlckMrln.github.io/static/media/BMAC_Logo.ebbba4fd4cb5424123ae.png",
     "static/media/pic7.jpg": "/BlckMrln.github.io/static/media/pic7.d3790472a2650b8c1ebc.jpg",
     "static/media/pic10.jpg": "/BlckMrln.github.io/static/media/pic10.d5999740b9918d66ea4a.jpg",
     "static/media/pic6.jpg": "/BlckMrln.github.io/static/media/pic6.469ce63b992136c5507e.jpg",
@@ -49,10 +50,10 @@
     "static/media/slick.ttf": "/BlckMrln.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/BlckMrln.github.io/static/media/slick.295183786cd8a1389865.woff",
     "main.084fb190.css.map": "/BlckMrln.github.io/static/css/main.084fb190.css.map",
-    "main.b3e74686.js.map": "/BlckMrln.github.io/static/js/main.b3e74686.js.map"
+    "main.717d8c34.js.map": "/BlckMrln.github.io/static/js/main.717d8c34.js.map"
   },
   "entrypoints": [
     "static/css/main.084fb190.css",
-    "static/js/main.b3e74686.js"
+    "static/js/main.717d8c34.js"
   ]
 }
