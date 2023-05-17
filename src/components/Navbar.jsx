@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import { NavLink } from 'react-router-dom';
 import './Navbar.css';
 import ModalTracker from './ModalTracker';
+import logo from './img/BMAC_Logo.png';
+
 
 function NavBar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -40,7 +42,7 @@ function NavBar() {
   return (
     <header className={navbar ? 'navbar1 active' : 'navbar1'}>
       <NavLink to="/" className="brand1 a">
-      <img width="62vw" alt="logo" src='./img/BMAC_logo.png' />Black<span className="color-logo1">Marlin</span>
+      <img width="62vw" alt="logo" src={logo} />Black<span className="color-logo1">Marlin</span>
       </NavLink>
       <div className={`menu-btn ${isMenuOpen ? "active" : ""}`} ref={menuBtnRef} onClick={handleMenuClick}></div>
       <div className={`navigation1 ${isMenuOpen ? "active" : ""}`} ref={navigationRef}>
